@@ -1,4 +1,4 @@
-# multi-agent-article-writer-crewai# Multi-Agent Article Writer with CrewAI
+# Multi-Agent Article Writer with CrewAI
 
 This project demonstrates how to build a simple **multi-agent AI workflow** using **CrewAI** to research, plan, write, and edit an article automatically.
 
